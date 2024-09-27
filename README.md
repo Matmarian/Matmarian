@@ -19,9 +19,26 @@
 -  🚀 Optimizing web pages.
 
 ```
-
   <!-- Skills and Tools-->
 ---
+
+## 🌟 Full Stack Developer | React, Node.js, PostgreSQL🚀
+Hola! Soy un desarrollador apasionado por las tecnologías web y el desarrollo de aplicaciones eficientes y escalables. Me encanta trabajar con React y Node.js, y crear proyectos que resuelvan problemas reales.
+
+🛠️ **Habilidades principales**:
+- JavaScript (ES6+), TypeScript, React, Redux
+- Node.js, Express, PostgreSQL, MongoDB
+- CSS, SASS, Tailwind CSS
+- Git, GitHub Actions, CI/CD
+
+📌 **Proyectos Destacados**:
+- [Techify E-commerce](https://github.com/tu-usuario/techify-ecommerce): Plataforma de venta de tecnología con carrito de compras, filtros y pagos en línea.
+- [API de Gestión de Turnos](https://github.com/tu-usuario/api-gestor-turnos): API RESTful para gestionar turnos médicos con autenticación y validación de horarios.
+
+ 
+
+
+
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
